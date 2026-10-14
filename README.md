@@ -32,7 +32,7 @@ git clone https://github.com/diegomoliveiraprof/projeto3.git
 cd projeto3
 
 python -m venv venv
-\venv\Scripts\activate
+venv\Scripts\activate
 
 python -m pip install -r requirements.txt
 python manage.py migrate
